@@ -27,3 +27,7 @@ public class Main {
         }
     }
 }
+// in this initially an array temp has been introduced in which we will store the unique elements from given array
+/*
+
+ */
