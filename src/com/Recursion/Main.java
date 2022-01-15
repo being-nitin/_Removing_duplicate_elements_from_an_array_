@@ -29,5 +29,6 @@ public class Main {
 }
 // in this initially an array temp has been introduced in which we will store the unique elements from given array
 /*
-
+till second last element the array was and atlast the last index of the array get vacant so we
+have added the last element in temp array and traverse it .
  */
